@@ -1,6 +1,7 @@
 <h1> Mise en oeuvre de l'injection des dépendances</h1>
+<h2>Le but de cette application c'est le fait d'avoir une application fermées à la modification et ouvertes à l 'extension </h2>
 
-<h2>Interface IDao</h2>
+<h3>Interface IDao</h3>
 <img src="Captures/interfaceIDao.PNG">
 <h2>Classe Dao </h2>
 <img src="Captures/classeDaoImp.PNG">
